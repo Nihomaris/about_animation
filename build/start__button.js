@@ -1,0 +1,1 @@
+!function(){var t=document.getElementById("button"),e=document.getElementById("logo"),n=document.getElementById("content"),o=document.getElementById("close"),c=document.getElementById("card-ico");t.onclick=function(){e.style.display="none",n.style.opacity="1",c.style.opacity="0"},o.onclick=function(){n.style.opacity="",e.style.display="",c.style.opacity="1"}}();
